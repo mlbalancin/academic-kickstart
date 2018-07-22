@@ -18,7 +18,6 @@ weight = 5
 [[education.courses]]
   course = "Doctor of Philosophy (PhD), Medicine"
   institution = "University of São Paulo, Faculty of Medicine (FMUSP)"
-  year = 2018-...
 
 [[education.courses]]
   course = "Pathology Residency (AP)"
