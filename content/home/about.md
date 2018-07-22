@@ -8,24 +8,25 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-# [interests]
-#  interests = 
-#    "Lung and Thorax Pathology",
-#    "Surgical Pathology"
+[[interests]]
+  interests = [
+    "Lung and Thorax Pathology",
+    "Surgical Pathology"
+    ]
     
-# List your qualificatiins (such as academic degrees).
+# List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Human Pathology"
+  course = "Doctor of Philosophy (PhD), Medicine"
   institution = "University of São Paulo, Faculty of Medicine (FMUSP)"
-  year = 2018
+  year = 2018-...
 
 [[education.courses]]
-  course = "Anatomic Pathology Residency"
+  course = "Pathology Residency (AP)"
   institution = "AC Camargo Cancer Center (São Paulo, Brazil)"
   year = 2015
 
 [[education.courses]]
-  course = "MD"
+  course = "MD, Medicine"
   institution = "University of São Paulo, Faculty of Medicine of Ribeirão Preto (FMRP-USP)"
   year = 2010
 
@@ -33,6 +34,8 @@ weight = 5
 
 # Biography
 
-Dr. Marcelo Balancin is a Anatomic Pathologist with special interest in cancer pathology and biomarkers. Actually is focusing in Mesothelioma microenvironment and predictive / prognostic biomarkers, as the main subject of a research PhD thesis.
+Dr. Balancin is a Brazilian Board-certified Pathologist (AP) with special interest in cancer pathology and biomarkers. Actually is focusing in Mesothelioma microenvironment and predictive / prognostic biomarkers, as the main subject of a research PhD thesis.
 
 Ample experience in general surgical pathology, including frozen sections, applied immunohistochemistry and molecular pathology. As an anatomic pathologist, has dedicated to Gastrointestinal and Lung and Thoracic diagnostic routines, including interstitial lung disease and pleural conditions.
+
+As a physician/scientist is also working on quantification methods, including morphometry and the challenges of transitioning to Digital Pathology.
