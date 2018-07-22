@@ -67,9 +67,9 @@ enableGitInfo = true
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "marcelo.balancin@usp.br"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  address = "Av. Dr. Arnaldo, 455 - Cerqueira César, São Paulo - SP, 01246-903, Brazil
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
+  phone = "+55 11 98602-0067"
   skype = "echo123"
   telegram = ""
 
@@ -101,8 +101,8 @@ enableGitInfo = true
   #   3: OpenStreetMap (Mapbox)
   map = 1
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "-23.5553352"
+  longitude = "-46.6701544"
   zoom = 15
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
@@ -186,9 +186,9 @@ enableGitInfo = true
   ]
 
   # Configuration of talk pages.
-  [params.talks]
+  # [params.talks]
     # Show talk time?
-    time = true
+  #  time = true
 
   # Configuration of publication pages.
   [params.publications]
@@ -286,10 +286,10 @@ enableGitInfo = true
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+#[[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
