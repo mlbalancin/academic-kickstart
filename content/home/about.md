@@ -15,8 +15,7 @@ weight = 5
    "Molecular Pathology"
    "Biomarkers"
    "Gastrointestinal Pathology"
-   "Digital Pathology and AI"
-  ]
+   "Digital Pathology and AI"]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
