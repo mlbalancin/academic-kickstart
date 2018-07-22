@@ -10,31 +10,34 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+  "Lung and Thorax Pathology",
+  "Mesothelioma",
+  "Molecular Pathology"
+  "Biomarkers"
+  "Gastrointestinal Pathology"
+  "Digital Pathology and AI"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Human Pathology"
+  institution = "University of São Paulo, Faculty of Medicine (FMUSP)"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Anatomic Pathology Residency"
+  institution = "AC Camargo Cancer Center (São Paulo, Brazil)"
+  year = 2015
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "MD"
+  institution = "University of São Paulo, Faculty of Medicine of Ribeirão Preto (FMRP-USP)"
+  year = 2010
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Marcelo Balancin is a Anatomic Pathologist with special interest in cancer pathology and biomarkers. Actually is focusing in Mesothelioma microenvironment and predictive / prognostic biomarkers, as the main subject of a research PhD thesis.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Ample experience in general surgical pathology, including frozen sections, applied immunohistochemistry and molecular pathology. As an anatomic pathologist, has dedicated to Gastrointestinal and Lung and Thoracic diagnostic routines, including interstitial lung disease and pleural conditions.
