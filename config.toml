@@ -34,7 +34,7 @@ hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo = true
 
 [outputs]
   home = [ "HTML", "CSS", "RSS" ]
@@ -99,7 +99,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
   latitude = "37.4275"
   longitude = "-122.1697"
@@ -161,7 +161,7 @@ enableGitInfo = false
   # Privacy pack
   #   Show a cookie consent message to visitors
   #   Anonymize IP in Google Analytics (if enabled)
-  privacy_pack = false
+  privacy_pack = true
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -206,7 +206,7 @@ enableGitInfo = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    publication_format = 1
 
   # Social/Academic Networking
   #
@@ -237,7 +237,12 @@ enableGitInfo = false
     link = "//twitter.com/Konzult_"
 
   [[params.social]]
-    icon = "google-scholar"
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//twitter.com/mlbalancin"
+
+  [[params.social]]
+    icon = "mendeley"
     icon_pack = "ai"
     link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
