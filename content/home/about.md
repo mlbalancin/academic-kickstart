@@ -8,10 +8,12 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = "Lung and Thorax Pathology"
-
-# List your qualifications (such as academic degrees).
+# [interests]
+#  interests = 
+#    "Lung and Thorax Pathology",
+#    "Surgical Pathology"
+    
+# List your qualificatiins (such as academic degrees).
 [[education.courses]]
   course = "PhD in Human Pathology"
   institution = "University of São Paulo, Faculty of Medicine (FMUSP)"
