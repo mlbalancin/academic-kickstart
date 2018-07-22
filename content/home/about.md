@@ -10,12 +10,12 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-  "Lung and Thorax Pathology",
-  "Mesothelioma",
-  "Molecular Pathology"
-  "Biomarkers"
-  "Gastrointestinal Pathology"
-  "Digital Pathology and AI"
+   "Lung and Thorax Pathology",
+   "Mesothelioma",
+   "Molecular Pathology"
+   "Biomarkers"
+   "Gastrointestinal Pathology"
+   "Digital Pathology and AI"
   ]
 
 # List your qualifications (such as academic degrees).
