@@ -11,7 +11,12 @@ weight = 5
 [interests]
   interests = [
     "Lung and Thorax Pathology",
-    "Surgical Pathology"
+    "Mesothelioma",
+    "Surgical Pathology",
+    "Molecular Pathology",
+    "Digital Pathology",
+    "Quantification Methods",
+    "Biomarkers"
     ]
     
 # List your qualifications (such as academic degrees).
