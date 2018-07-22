@@ -9,8 +9,8 @@ weight = 5
 
 # List your academic interests.
 [interests]
-  interests = [
-   "Lung and Thorax Pathology",
+  interests =
+   ["Lung and Thorax Pathology",
    "Mesothelioma",
    "Molecular Pathology"
    "Biomarkers"
